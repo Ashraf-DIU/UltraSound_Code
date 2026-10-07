@@ -52,3 +52,6 @@ Ultrasound-RAG/
 ├── figures/
 ├── tables/
 └── README.md
+
+
+This files is used for Research purpose.
